@@ -1,0 +1,1 @@
+自定义tableviewcell，每个cell上面都有一个textfield。根据用户输入内容，单机提交按钮获取每一个cell上元素的内容。
